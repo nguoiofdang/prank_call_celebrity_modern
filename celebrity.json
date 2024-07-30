@@ -1,0 +1,254 @@
+[
+    {
+        "id": 0,
+        "name": "Mr.Santa",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mr_santa.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/christmas.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 1,
+        "name": "Cristiano Ronaldo",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ronaldo.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ronaldo.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 2,
+        "name": "Lionel Messi",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/messi.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/messi.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 3,
+        "name": "Kylian Mbappé",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mbappe.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/mbappe.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 4,
+        "name": "Neymar Jr",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/neymar.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/neymar.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 5,
+        "name": "Lee Min-ho",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/leeminho.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/leeminho.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 6,
+        "name": "Rosé",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/rose.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/rose.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 7,
+        "name": "Venom",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/venom.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/venom.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 8,
+        "name": "Iron Man",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/iron_man.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ironman.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 9,
+        "name": "Chucky",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/chucky.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/chucky.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 10,
+        "name": "Ghost",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ghost.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ghost.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 11,
+        "name": "Adele",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/adele.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Adele.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 12,
+        "name": "Ariana Grande",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ariana-grande.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ariana Grande.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 13,
+        "name": "Beyoncé",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/beyonce.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Beyoncé.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 14,
+        "name": "Cardi B",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cardi-b.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cardi B.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 15,
+        "name": "Homelander",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/homelander.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Homelander.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 16,
+        "name": "John Cena",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/john-cena.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/John Cena.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 0,
+        "name": "Mr.Santa",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mr_santa.webp"
+        ],
+        "video": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/chucky.mp4"
+        ],
+        "isMessenger": true,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    }
+]
