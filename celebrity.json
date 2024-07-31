@@ -1244,19 +1244,5 @@
         "alwaysDisplay": false,
         "adsVc": true,
         "adsMs": false
-    },
-    {
-        "id": 0,
-        "name": "Mr.Santa",
-        "avatar": [
-            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mr_santa.webp"
-        ],
-        "video": [
-            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hande Erçel.mp4"
-        ],
-        "isMessenger": true,
-        "alwaysDisplay": false,
-        "adsVc": true,
-        "adsMs": false
     }
 ]
