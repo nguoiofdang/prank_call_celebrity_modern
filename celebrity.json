@@ -1134,6 +1134,20 @@
         "adsMs": false
     },
     {
+        "id": 81,
+        "name": "Neil Patrick Harris",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/neil_patrick_harris.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Neil Patrick Harris.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
         "id": 0,
         "name": "Mr.Santa",
         "avatar": [
