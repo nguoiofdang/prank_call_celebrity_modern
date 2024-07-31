@@ -1008,13 +1008,97 @@
         "adsMs": false
     },
     {
+        "id": 72,
+        "name": "Wolverine",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/wolverine.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Wolverine.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 73,
+        "name": "Burak Özçivit",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/burak-ozcivit.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Burak Özçivit.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 74,
+        "name": "Cansu Dere",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cansu-dere.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cansu Dere.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 75,
+        "name": "Hande Erçel",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hande-ercel.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hande Erçel.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 76,
+        "name": "Hazal Kaya",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hazal_kaya.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hazal Kaya.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 77,
+        "name": "Nina Hoss",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/nina_hoss.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Nina Hoss.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
         "id": 0,
         "name": "Mr.Santa",
         "avatar": [
             "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mr_santa.webp"
         ],
         "video": [
-            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Alessandra Ambrosio.mp4"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hande Erçel.mp4"
         ],
         "isMessenger": true,
         "alwaysDisplay": false,
