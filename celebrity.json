@@ -952,6 +952,62 @@
         "adsMs": false
     },
     {
+        "id": 68,
+        "name": "Cate Blanchett",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cate-blanchett.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cate Blanchett.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 69,
+        "name": "Keith Urban",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/keith-urban.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Keith Urban.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 70,
+        "name": "Naomi Watts",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/naomi-watts.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Naomi Watts.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 71,
+        "name": "Thor",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/thor.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Thor.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
         "id": 0,
         "name": "Mr.Santa",
         "avatar": [
