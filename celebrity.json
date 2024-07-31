@@ -1107,12 +1107,26 @@
     },
     {
         "id": 79,
-        "name": "Eiza González",
+        "name": "Hugo Sanchez",
         "avatar": [
-            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/eiza.webp"
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hugo_sanchez.webp"
         ],
         "video": [
-            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Eiza González.mp4"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hugo Sanchez.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 80,
+        "name": "Melissa Barrera",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/melissa_barrera.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Melissa Barrera.mp4"
         ],
         "isMessenger": false,
         "alwaysDisplay": false,
