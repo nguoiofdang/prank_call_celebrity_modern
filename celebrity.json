@@ -1092,6 +1092,34 @@
         "adsMs": false
     },
     {
+        "id": 78,
+        "name": "Eiza González",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/eiza.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Eiza González.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
+        "id": 79,
+        "name": "Eiza González",
+        "avatar": [
+            "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/eiza.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Eiza González.mp4"
+        ],
+        "isMessenger": false,
+        "alwaysDisplay": false,
+        "adsVc": true,
+        "adsMs": false
+    },
+    {
         "id": 0,
         "name": "Mr.Santa",
         "avatar": [
