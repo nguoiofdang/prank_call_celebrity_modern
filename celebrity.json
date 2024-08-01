@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Mr.Santa",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mr_santa.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/mr_santa.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/christmas.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -12,7 +12,7 @@
     {
         "id": 1,
         "name": "Cristiano Ronaldo",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ronaldo.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ronaldo.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ronaldo.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -22,7 +22,7 @@
     {
         "id": 2,
         "name": "Lionel Messi",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/messi.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/messi.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/messi.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "Kylian Mbappé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mbappe.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/mbappe.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/mbappe.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -42,7 +42,7 @@
     {
         "id": 4,
         "name": "Neymar Jr",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/neymar.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/neymar.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/neymar.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -52,7 +52,7 @@
     {
         "id": 5,
         "name": "Lee Min-ho",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/leeminho.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/leeminho.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/leeminho.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "name": "Rosé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/rose.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/rose.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/rose.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -72,7 +72,7 @@
     {
         "id": 7,
         "name": "Venom",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/venom.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/venom.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/venom.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -82,7 +82,7 @@
     {
         "id": 8,
         "name": "Iron Man",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/iron_man.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/iron_man.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ironman.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -92,7 +92,7 @@
     {
         "id": 9,
         "name": "Chucky",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/chucky.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/chucky.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/chucky.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -102,7 +102,7 @@
     {
         "id": 10,
         "name": "Ghost",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ghost.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ghost.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ghost.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -112,7 +112,7 @@
     {
         "id": 11,
         "name": "Adele",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/adele.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/adele.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Adele.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -122,7 +122,7 @@
     {
         "id": 12,
         "name": "Ariana Grande",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ariana-grande.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ariana-grande.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ariana Grande.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -132,7 +132,7 @@
     {
         "id": 13,
         "name": "Beyoncé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/beyonce.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/beyonce.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Beyoncé.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -142,7 +142,7 @@
     {
         "id": 14,
         "name": "Cardi B",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cardi-b.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/cardi-b.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cardi B.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -152,7 +152,7 @@
     {
         "id": 15,
         "name": "Homelander",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/homelander.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/homelander.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Homelander.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -162,7 +162,7 @@
     {
         "id": 16,
         "name": "John Cena",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/john-cena.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/john-cena.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/John Cena.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -172,7 +172,7 @@
     {
         "id": 17,
         "name": "Johny Depp",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/johny_depp.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/johny_depp.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Johny Depp.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -182,7 +182,7 @@
     {
         "id": 18,
         "name": "The Rock",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/the-rock.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/the-rock.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/The rock.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -192,7 +192,7 @@
     {
         "id": 19,
         "name": "Bella Poarch",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/bella-poarch.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/bella-poarch.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Bella Poarch.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -202,7 +202,7 @@
     {
         "id": 20,
         "name": "Cristiano Ronaldo",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ronaldo2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ronaldo2.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/ronaldo2.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -212,7 +212,7 @@
     {
         "id": 21,
         "name": "Taylor Swift",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/taylor-swift.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/taylor-swift.webp",
         "video": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/video-call/taylor_swift.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -222,7 +222,7 @@
     {
         "id": 22,
         "name": "Billie Eilish",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/billie-eilish.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/billie-eilish.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Billie Eilish.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -232,7 +232,7 @@
     {
         "id": 23,
         "name": "Gibi",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/gibi.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/gibi.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Gibi.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -242,7 +242,7 @@
     {
         "id": 24,
         "name": "Justin Bieber",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/justin-bieber.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/justin-bieber.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Justin Bieber.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -252,7 +252,7 @@
     {
         "id": 25,
         "name": "Manipulative Mandy",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/manipulative.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/manipulative.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Manipulative Mandy.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -272,7 +272,7 @@
     {
         "id": 27,
         "name": "Kim Jong-un",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/kim-jong-un.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/kim-jong-un.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Kim Jong-un.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -282,7 +282,7 @@
     {
         "id": 28,
         "name": "Kim Jong-un",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/kim-jong-un.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/kim-jong-un.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Kim Jong-un.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -292,7 +292,7 @@
     {
         "id": 29,
         "name": "Elon Musk",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/elon-musk.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/elon-musk.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Elon Musk.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -302,7 +302,7 @@
     {
         "id": 30,
         "name": "Vladimir Putin",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/putin.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/putin.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Putin.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -312,7 +312,7 @@
     {
         "id": 31,
         "name": "Spider Man",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/spider-man.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/spider-man.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Spider Man.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -322,7 +322,7 @@
     {
         "id": 32,
         "name": "Lisa",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/lisa.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/lisa.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Lisa.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -332,7 +332,7 @@
     {
         "id": 33,
         "name": "Rosé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/rose2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/rose2.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Rose.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -342,7 +342,7 @@
     {
         "id": 34,
         "name": "Lee Min-ho",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/leeminho2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/leeminho2.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/leeminho.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -352,7 +352,7 @@
     {
         "id": 35,
         "name": "Mark Melody",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mark-melody.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/mark-melody.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Mark Melody.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -362,7 +362,7 @@
     {
         "id": 36,
         "name": "Jimin",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/jimin.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/jimin.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Jimin.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -372,7 +372,7 @@
     {
         "id": 37,
         "name": "Biden",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/biden.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/biden.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Biden.mp4",
         "isMessenger": true,
         "alwaysDisplay": false,
@@ -382,7 +382,7 @@
     {
         "id": 38,
         "name": "Diane Kruger",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/diane-kruger.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/diane-kruger.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Diane Kruger.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -392,7 +392,7 @@
     {
         "id": 39,
         "name": "Emre Can",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/emre-can.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/emre-can.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Emre Can.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -402,7 +402,7 @@
     {
         "id": 40,
         "name": "Ilkay Gundogan",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/Ilkay-gundogan.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/Ilkay-gundogan.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ilkay Gundogan.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -412,7 +412,7 @@
     {
         "id": 41,
         "name": "Leroy Sane",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/leroy-sane.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/leroy-sane.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Leroy Sane.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -422,7 +422,7 @@
     {
         "id": 42,
         "name": "Sandra Bullock",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/sandra-bullock.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/sandra-bullock.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Sandra Bullock.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -432,7 +432,7 @@
     {
         "id": 43,
         "name": "Benedict Cumberbatch",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/benedict.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/benedict.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Benedict Cumberbatch.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -442,7 +442,7 @@
     {
         "id": 44,
         "name": "Helena Bonham Carter",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/helena-bonham-carter.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/helena-bonham-carter.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Helena Bonham Carter.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -452,7 +452,7 @@
     {
         "id": 45,
         "name": "Idris Elba",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/idris-elba.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/idris-elba.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Idris Elba.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -462,7 +462,7 @@
     {
         "id": 46,
         "name": "Judi Dench",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/judi-dench.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/judi-dench.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Judi Dench.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -472,7 +472,7 @@
     {
         "id": 47,
         "name": "Keira Knightley",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/keira-knightley.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/keira-knightley.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Keira Knightley.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -482,7 +482,7 @@
     {
         "id": 48,
         "name": "Speed",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/speed.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/speed.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Speed.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -492,7 +492,7 @@
     {
         "id": 49,
         "name": "Tom Hardy",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/tom-hardy.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/tom-hardy.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Tom Hardy.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -502,7 +502,7 @@
     {
         "id": 50,
         "name": "Antoine Griezmann",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/griezmann.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/griezmann.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Antoine Griezmann.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -512,7 +512,7 @@
     {
         "id": 51,
         "name": "Franck Ribéry",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/franck-ribery.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/franck-ribery.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Franck Ribéry.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -522,7 +522,7 @@
     {
         "id": 52,
         "name": "Karim Benzema",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/benzema.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/benzema.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Karim Benzema.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -532,7 +532,7 @@
     {
         "id": 53,
         "name": "Kylian Mbappé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/mbappe2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/mbappe2.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Kylian M'Bappé.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -542,7 +542,7 @@
     {
         "id": 54,
         "name": "Paul Pogba",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/pogba.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/pogba.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Paul Pogba.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -552,7 +552,7 @@
     {
         "id": 55,
         "name": "Alessandra Ambrosio",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/alessandra-ambrosio.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/alessandra-ambrosio.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Alessandra Ambrosio.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -562,7 +562,7 @@
     {
         "id": 56,
         "name": "Caetano Veloso",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/caetano-veloso.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/caetano-veloso.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Caetano Veloso.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -572,7 +572,7 @@
     {
         "id": 57,
         "name": "Ronaldo de Lima",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ronaldo-de-lima.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ronaldo-de-lima.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ronaldo Luís Nazário de Lima.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -582,7 +582,7 @@
     {
         "id": 58,
         "name": "Fernanda Lima",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/fernanda-lima.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/fernanda-lima.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Fernanda Lima.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -592,7 +592,7 @@
     {
         "id": 59,
         "name": "Gisele Bündchen",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/gisele-bundchen.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/gisele-bundchen.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Gisele Bündchen.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -602,7 +602,7 @@
     {
         "id": 60,
         "name": "Neymar Jr",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/neymar2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/neymar2.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Neymar.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -612,7 +612,7 @@
     {
         "id": 61,
         "name": "Pelé",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/pele.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/pele.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Pelé.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -622,7 +622,7 @@
     {
         "id": 62,
         "name": "Wagner Moura",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/wagner-moura.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/wagner-moura.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Wagner Moura.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -632,7 +632,7 @@
     {
         "id": 63,
         "name": "Celine Dion",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/celine-dion.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/celine-dion.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Celine Dion.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -642,7 +642,7 @@
     {
         "id": 64,
         "name": "Cobie Smulders",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cobie-smulders.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/cobie-smulders.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cobie Smulders.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -652,7 +652,7 @@
     {
         "id": 65,
         "name": "Justin Bieber",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/justin-bieber-2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/justin-bieber-2.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Justin Bieber.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -662,7 +662,7 @@
     {
         "id": 66,
         "name": "Ryan Reynolds",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/ryan-reynolds.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/ryan-reynolds.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ryan Reynolds.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -672,7 +672,7 @@
     {
         "id": 67,
         "name": "The Weeknd",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/the-weeknd.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/the-weeknd.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/theweeknd.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -682,7 +682,7 @@
     {
         "id": 68,
         "name": "Cate Blanchett",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cate-blanchett.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/cate-blanchett.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cate Blanchett.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -692,7 +692,7 @@
     {
         "id": 69,
         "name": "Keith Urban",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/keith-urban.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/keith-urban.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Keith Urban.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -702,7 +702,7 @@
     {
         "id": 70,
         "name": "Naomi Watts",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/naomi-watts.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/naomi-watts.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Naomi Watts.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -712,7 +712,7 @@
     {
         "id": 71,
         "name": "Thor",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/thor.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/thor.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Thor.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -722,7 +722,7 @@
     {
         "id": 72,
         "name": "Wolverine",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/wolverine.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/wolverine.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Wolverine.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -732,7 +732,7 @@
     {
         "id": 73,
         "name": "Burak Özçivit",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/burak-ozcivit.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/burak-ozcivit.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Burak Özçivit.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -742,7 +742,7 @@
     {
         "id": 74,
         "name": "Cansu Dere",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/cansu-dere.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/cansu-dere.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cansu Dere.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -752,7 +752,7 @@
     {
         "id": 75,
         "name": "Hande Erçel",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hande-ercel.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/hande-ercel.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hande Erçel.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -762,7 +762,7 @@
     {
         "id": 76,
         "name": "Hazal Kaya",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hazal_kaya.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/hazal_kaya.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hazal Kaya.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -772,7 +772,7 @@
     {
         "id": 77,
         "name": "Nina Hoss",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/nina_hoss.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/nina_hoss.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Nina Hoss.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -782,7 +782,7 @@
     {
         "id": 78,
         "name": "Eiza González",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/eiza.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/eiza.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Eiza González.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -792,7 +792,7 @@
     {
         "id": 79,
         "name": "Hugo Sanchez",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/hugo_sanchez.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/hugo_sanchez.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hugo Sanchez.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -802,7 +802,7 @@
     {
         "id": 80,
         "name": "Melissa Barrera",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/melissa_barrera.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/melissa_barrera.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Melissa Barrera.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -812,7 +812,7 @@
     {
         "id": 81,
         "name": "Neil Patrick Harris",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/neil_patrick_harris.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/neil_patrick_harris.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Neil Patrick Harris.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -822,7 +822,7 @@
     {
         "id": 82,
         "name": "Selena Gomez",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/selena.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/selena.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Selena Gomez.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -832,7 +832,7 @@
     {
         "id": 83,
         "name": "Anne Curtis",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/anne-curtis.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/anne-curtis.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Anne Curtis.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -842,7 +842,7 @@
     {
         "id": 84,
         "name": "John Arcilla",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/john-arcilla.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/john-arcilla.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/John Arcilla.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -852,7 +852,7 @@
     {
         "id": 85,
         "name": "Jon Jon Briones",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/jon-jon-briones.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/jon-jon-briones.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Jon Jon Briones.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -862,7 +862,7 @@
     {
         "id": 86,
         "name": "Moira Dela Torre",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/moira-dela-torre.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/moira-dela-torre.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Moira Dela Torre.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -872,7 +872,7 @@
     {
         "id": 87,
         "name": "Vanessa Hudgens",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/vanessa-hudgens.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/vanessa-hudgens.webp",
         "video": "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Vanessa Hudgens.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
@@ -882,7 +882,7 @@
     {
         "id": 88,
         "name": "Manipulative Mandy",
-        "avatar": "https://github.com/nguoiofdang/prank_call_celebrity_modern/blob/main/avatar/manipulative2.webp",
+        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/manipulative2.webp",
         "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Manipulative Mandy 2.mp4",
         "isMessenger": false,
         "alwaysDisplay": false,
