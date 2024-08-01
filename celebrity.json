@@ -280,16 +280,6 @@
         "adsMs": false
     },
     {
-        "id": 28,
-        "name": "Kim Jong-un",
-        "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/kim-jong-un.webp",
-        "video": "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Kim Jong-un.mp4",
-        "isMessenger": true,
-        "alwaysDisplay": false,
-        "adsVc": true,
-        "adsMs": false
-    },
-    {
         "id": 29,
         "name": "Elon Musk",
         "avatar": "https://raw.githubusercontent.com/nguoiofdang/prank_call_celebrity_modern/main/avatar/elon-musk.webp",
